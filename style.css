@@ -447,3 +447,6 @@ body {
 .ratio-9x16{
     --bs-aspect-ratio: 200%;
 }
+.subline-responsive-max-width{
+    max-width: 40%;
+}
