@@ -404,6 +404,16 @@ body {
     margin-bottom: 110px;
 }
 
+.container.map-container {
+    max-width: 1500px;
+}
+
+.map-container p{
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: 26px;
+}
+
 .familia-base-container {
     margin-bottom: 110px;
 }
